@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me  👋
+
+I'm a student of Computer Systems Engineering.
+I like Linux. Currently, I use Arch Linux with Hyprland as my window manager.
 
 <!--
 **98beto/98beto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
